@@ -1,3 +1,3 @@
 *0x03. Git*
 
-Directory pushed alone first, per task 0.
+README.md edit per task 3
